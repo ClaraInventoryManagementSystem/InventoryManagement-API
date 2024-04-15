@@ -1,0 +1,42 @@
+{
+  "IsRush": true,
+  "Customer": {
+    "CustomerId": 38,
+    "LocationId": 38,
+    "ContactId": 75
+  },
+  "ArType": 2,
+  "Sample": 1164,
+  "MaterialCode1": "MAT_CODE_1",
+  "MaterialCode2": "MAT_CODE_2",
+  "LotDetails": [
+    {
+      "LotNumber": "LOT1",
+      "ContainerCount": 10,
+      "ContainerType": 4,
+      "Quantity": 200,
+      "UOM": 8,
+      "StorageMethod": 11
+    }
+  ],
+  "ChemicalTests": [
+    1
+  ],
+  "MicroTests": [
+    1
+  ],
+  "TestMethod": 14,
+  "TestMethodRef": "17",
+  "TestMethodRefType": 17,
+  "Category": 18,
+  "SubCategory": 20,
+  "CategoryRemarks": "Category Remarks",
+  "PONumber": "PO00001",
+  "OtherCustomerID": "OtherCustomerID",
+  "Condiation": 27,
+  "CondiationRemarks": "Condiation is good",
+  "SampleRemarks": "this sample remarks",
+  "Remarks": "remarksksk",
+  "ReturnSample": true,
+  "RetunSamplePeriod": 24
+}

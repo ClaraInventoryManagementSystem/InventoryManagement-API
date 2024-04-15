@@ -1,0 +1,52 @@
+{
+  "isRush": true,
+  "customer": {
+    "customerId": 1,
+    "locationId": 1,
+    "contactId": 1
+  },
+  "arType": 1,
+  "sample": 1,
+  "materialCode1": "M-Code-001",
+  "materialCode2": "M-Code-002",
+  "lotDetails": [
+    {
+      "lotNumber": "Lot1",
+      "containerCount": 2,
+      "containerType": 4,
+      "quantity": 100,
+      "uom": 8,
+      "storageMethod": 11
+    },
+    {
+      "lotNumber": "Lot2",
+      "containerCount": 1,
+      "containerType": 6,
+      "quantity": 150,
+      "uom": 9,
+      "storageMethod": 12
+    }
+  ],
+  "chemicalTests": [
+    1
+  ],
+  "microTests": [
+    1
+  ],
+  "testMethod": 14,
+  "testMethodRef": "16",
+  "testMethodRefType": 16,
+  "category": 18,
+  "subCategory": 22,
+  "categoryRemarks": "Catremarks",
+  "disposalType": 46,
+  "disposalTime": 24,
+  "poNumber": "A-101001",
+  "otherCustomerID": "other-customerID",
+  "condiation": 27,
+  "condiationRemarks": "Good",
+  "sampleRemarks": "SampleRemarks",
+  "remarks": "Main Remarks",
+  "returnSample": true,
+  "retunSamplePeriod": 24
+}
